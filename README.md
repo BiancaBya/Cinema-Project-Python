@@ -2,7 +2,7 @@
 
 This Python-based application allows for the management of cinema operations, focusing on client management and movie scheduling. The system helps cinema administrators track clients, manage movie listings, and handle bookings in an organized, efficient manner.
 
-## Key Features
+## 📌 Key Features
 
 - **Client Management:**
   - Allows the addition, modification, and removal of client details.
@@ -19,7 +19,7 @@ This Python-based application allows for the management of cinema operations, fo
 - **Search and Filter:**
   - Users can search for specific movies and filter based on genres, times, or availability.
   
-## Technologies Used
+## ⚙️ Technologies Used
 
 - **Python:**
    Core programming language used to build the application logic and data management.
@@ -27,7 +27,7 @@ This Python-based application allows for the management of cinema operations, fo
 - **File Handling:**
    Application stores data in text files for persistence.
 
-## Architecture
+## 🌐 Architecture
 
 - **Domain :**
   - Encapsulates the core business logic and entities such as **Client**, **Movie**, and **Booking**.
