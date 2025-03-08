@@ -1,4 +1,4 @@
-# Cinema Management Application
+# 🎬 Cinema Management Application 
 
 This Python-based application allows for the management of cinema operations, focusing on client management and movie scheduling. The system helps cinema administrators track clients, manage movie listings, and handle bookings in an organized, efficient manner.
 
